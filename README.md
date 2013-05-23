@@ -1,7 +1,7 @@
 # minimalist-wp
 
 A minimalist WordPress theme based on
-[orderedlist/minimal](http://www.github.com/orderedlist/minimal][orderedlist/minimal).
+[orderedlist/minimal](http://www.github.com/orderedlist/minimal).
 
 # License
 
